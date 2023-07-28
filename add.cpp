@@ -5,6 +5,6 @@ int main()
 {
   int a,b;
   cin>>a>>b;
-  cout<<"Addition: "<<a+b;
+  cout<<"Addition of the two no.: "<<a+b;
 }
 
